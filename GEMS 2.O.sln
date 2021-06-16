@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GEMS 2.O", "GEMS 2.O\GEMS 2.O.vbproj", "{FE5C8B65-791D-462A-ADAE-96CCF841CAFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5C8B65-791D-462A-ADAE-96CCF841CAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5C8B65-791D-462A-ADAE-96CCF841CAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5C8B65-791D-462A-ADAE-96CCF841CAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5C8B65-791D-462A-ADAE-96CCF841CAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
