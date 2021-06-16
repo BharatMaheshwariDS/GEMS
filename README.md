@@ -1,2 +1,2 @@
 # GEMS
-its a dot Net Application for Exam related activities management
+it's a dot Net Application developed for Exam related activities management.
